@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 700,
-    "timeDay": 700,
-    "timeWeek": 700,
-    "timeMonth": 700,
-    "timeYear": 700,
+    "time": 631,
+    "timeDay": 631,
+    "timeWeek": 631,
+    "timeMonth": 631,
+    "timeYear": 631,
     "dailyMinutesDown": {}
   },
   {
@@ -22,19 +22,19 @@
     "url": "https://tiklydown.me/api/check",
     "icon": "https://icons.duckduckgo.com/ip3/tiklydown.me.ico",
     "slug": "website",
-    "status": "down",
-    "uptime": "7.00%",
-    "uptimeDay": "7.00%",
-    "uptimeWeek": "7.00%",
-    "uptimeMonth": "7.00%",
-    "uptimeYear": "7.00%",
-    "time": 53,
-    "timeDay": 53,
-    "timeWeek": 53,
-    "timeMonth": 53,
-    "timeYear": 53,
+    "status": "up",
+    "uptime": "0.58%",
+    "uptimeDay": "0.58%",
+    "uptimeWeek": "0.58%",
+    "uptimeMonth": "0.58%",
+    "uptimeYear": "0.58%",
+    "time": 158,
+    "timeDay": 158,
+    "timeWeek": 158,
+    "timeMonth": 158,
+    "timeYear": 158,
     "dailyMinutesDown": {
-      "2023-04-02": 0
+      "2023-04-02": 10
     }
   }
 ]
