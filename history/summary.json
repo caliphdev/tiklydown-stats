@@ -23,18 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/tiklydown.me.ico",
     "slug": "website",
     "status": "up",
-    "uptime": "0.58%",
-    "uptimeDay": "0.58%",
-    "uptimeWeek": "0.58%",
-    "uptimeMonth": "0.58%",
-    "uptimeYear": "0.58%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 158,
     "timeDay": 158,
     "timeWeek": 158,
     "timeMonth": 158,
     "timeYear": 158,
-    "dailyMinutesDown": {
-      "2023-04-02": 10
-    }
+    "dailyMinutesDown": {}
   }
 ]
