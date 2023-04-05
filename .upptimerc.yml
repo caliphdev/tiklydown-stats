@@ -4,7 +4,7 @@ repo: tiklydown-stats # The name of this repository
 
 sites:
   - name: API
-    url: https://developers.tiklydown.me
+    url: https://api.tiklydown.me
   - name: Website
     url: https://tiklydown.me/api/check
 
