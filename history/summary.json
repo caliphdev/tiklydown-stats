@@ -4,19 +4,20 @@
     "url": "https://developers.tiklydown.me",
     "icon": "https://icons.duckduckgo.com/ip3/developers.tiklydown.me.ico",
     "slug": "api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 637,
-    "timeDay": 639,
-    "timeWeek": 637,
-    "timeMonth": 637,
-    "timeYear": 637,
+    "status": "up",
+    "uptime": "98.99%",
+    "uptimeDay": "97.83%",
+    "uptimeWeek": "98.99%",
+    "uptimeMonth": "98.99%",
+    "uptimeYear": "98.99%",
+    "time": 593,
+    "timeDay": 484,
+    "timeWeek": 593,
+    "timeMonth": 593,
+    "timeYear": 593,
     "dailyMinutesDown": {
-      "2023-04-04": 0
+      "2023-04-05": 22,
+      "2023-04-04": 9
     }
   },
   {
