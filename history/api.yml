@@ -1,7 +1,7 @@
 url: https://api.tiklydown.me
-status: down
-code: 502
-responseTime: 933
-lastUpdated: 2023-06-03T11:51:23.181Z
+status: up
+code: 200
+responseTime: 789
+lastUpdated: 2023-06-03T12:40:46.334Z
 startTime: Sun Apr 02 2023 21:03:45 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
